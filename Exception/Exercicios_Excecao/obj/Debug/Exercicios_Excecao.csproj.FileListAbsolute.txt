@@ -1,0 +1,14 @@
+C:\Users\B43794\source\repos\Exception\Exercicios_Excecao\bin\Debug\Exercicios_Excecao.exe.config
+C:\Users\B43794\source\repos\Exception\Exercicios_Excecao\bin\Debug\Exercicios_Excecao.exe
+C:\Users\B43794\source\repos\Exception\Exercicios_Excecao\bin\Debug\Exercicios_Excecao.pdb
+C:\Users\B43794\source\repos\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.csprojAssemblyReference.cache
+C:\Users\B43794\source\repos\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.csproj.CoreCompileInputs.cache
+C:\Users\B43794\source\repos\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.exe
+C:\Users\B43794\source\repos\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Banrisul\Exercicio_Excecoes\Exception\Exercicios_Excecao\bin\Debug\Exercicios_Excecao.exe.config
+C:\Users\ferna\OneDrive\Área de Trabalho\Banrisul\Exercicio_Excecoes\Exception\Exercicios_Excecao\bin\Debug\Exercicios_Excecao.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Banrisul\Exercicio_Excecoes\Exception\Exercicios_Excecao\bin\Debug\Exercicios_Excecao.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Banrisul\Exercicio_Excecoes\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Banrisul\Exercicio_Excecoes\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Banrisul\Exercicio_Excecoes\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Banrisul\Exercicio_Excecoes\Exception\Exercicios_Excecao\obj\Debug\Exercicios_Excecao.pdb
